@@ -1,6 +1,6 @@
 **SOFTWARE REQUIREMENTS SPECIFICATION**
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/logoPCR.png){width="6.5in" height="2.125in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/logoPCR.png)
 
 **Disusun Oleh:**
 
