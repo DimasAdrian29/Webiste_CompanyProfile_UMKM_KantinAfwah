@@ -288,7 +288,7 @@ Use Case: Login
 
 Diagram:
 
-![](media/image4.png){width="5.541666666666667in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.1%20Admin%20Login.png){width="5.541666666666667in"
 height="1.7604166666666667in"}
 
 Deskripsi Singkat
@@ -315,7 +315,7 @@ Xref: Bagian 3.2.1, Login Admin
 Deskripsi Singkat  
 Sistem dapat menampilkan halaman input menu dan Admin menginputkan menu.
 
-![](media/image18.png){width="4.5517475940507435in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.2%20Admin%20Input%20Menu.png){width="4.5517475940507435in"
 height="2.713542213473316in"}
 
 Deskripsi Langkah- langkah:
@@ -334,18 +334,18 @@ Deskripsi Singkat
 Sistem dapat menampilkan halaman input slide dan Admin menginputkan
 slide.
 
-![](media/image12.png){width="4.859375546806649in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.3%20Admin%20Input%20Slide.png){width="4.859375546806649in"
 height="1.2990409011373578in"}
 
 Deskripsi Langkah- langkah:
 
-4.  Sistem akan menampilkan tampilan daftar slide.
+1.  Sistem akan menampilkan tampilan daftar slide.
 
-5.  Admin dapat melihat,menambahkan, dan mengupload gambar slide.
+2.  Admin dapat melihat,menambahkan, dan mengupload gambar slide.
 
-6.  Sistem akan menyimpan ke database.
+3.  Sistem akan menyimpan ke database.
 
-7.  sudah disimpan sistem akan menampilkan peringatan.
+4.  sudah disimpan sistem akan menampilkan peringatan.
 
 Xref: Bagian 3.2.3, Input data slide
 
@@ -355,16 +355,16 @@ Deskripsi Singkat
 Sistem dapat menampilkan halaman input about dan Admin menginputkan
 about.
 
-![](media/image3.png){width="4.895833333333333in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.4%20Admin%20Input%20About%20Us.png){width="4.895833333333333in"
 height="3.1399770341207347in"}
 
 Deskripsi Langkah- langkah:
 
-8.  Sistem akan menampilkan tampilan daftar about.
+1.  Sistem akan menampilkan tampilan daftar about.
 
-9.  Admin dapat melihat,menambahkan, dan mengupload gambar about.
+2.  Admin dapat melihat,menambahkan, dan mengupload gambar about.
 
-10. Sistem akan menyimpan ke database.
+3. Sistem akan menyimpan ke database.
 
 Xref: Bagian 3.2.4, Input data about
 
@@ -374,18 +374,18 @@ Deskripsi Singkat
 Sistem dapat menampilkan halaman input galery dan Admin menginputkan
 galery..
 
-![](media/image13.png){width="4.619792213473316in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.5%20Admin%20Input%20Galery.png){width="4.619792213473316in"
 height="2.454961723534558in"}
 
 Deskripsi Langkah- langkah:
 
-11. Sistem akan menampilkan tampilan daftar galery.
+1. Sistem akan menampilkan tampilan daftar galery.
 
-12. Admin dapat melihat,menambahkan, dan mengupload gambar galery.
+2. Admin dapat melihat,menambahkan, dan mengupload gambar galery.
 
-13. Sistem akan menyimpan ke database.
+3. Sistem akan menyimpan ke database.
 
-14. sudah disimpan sistem akan menampilkan peringatan.
+4. sudah disimpan sistem akan menampilkan peringatan.
 
 Xref: Bagian 3.2.5, Input data galery
 
@@ -394,18 +394,18 @@ Xref: Bagian 3.2.5, Input data galery
 Deskripsi Singkat Sistem dapat menampilkan halaman input promo dan Admin
 menginputkan promo.
 
-![](media/image2.png){width="4.182292213473316in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.6%20Admin%20Input%20Promo.png){width="4.182292213473316in"
 height="3.5367639982502186in"}
 
 Deskripsi Langkah- langkah:
 
-15. Sistem akan menampilkan tampilan daftar promo.
+1. Sistem akan menampilkan tampilan daftar promo.
 
-16. Admin dapat melihat,menambahkan, dan mengupload gambar promo.
+2. Admin dapat melihat,menambahkan, dan mengupload gambar promo.
 
-17. Sistem akan menyimpan ke database.
+3. Sistem akan menyimpan ke database.
 
-18. sudah disimpan sistem akan menampilkan peringatan.
+4. sudah disimpan sistem akan menampilkan peringatan.
 
 Xref: Bagian 3.2.6, Input data promo
 
@@ -414,16 +414,16 @@ Xref: Bagian 3.2.6, Input data promo
 Deskripsi Singkat Sistem dapat menampilkan halaman input kutipan dan
 Admin menginputkan kutipan.
 
-![](media/image6.png){width="4.171875546806649in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.7%20Admin%20Input%20Kutipan.png){width="4.171875546806649in"
 height="2.0270122484689415in"}
 
 Deskripsi Langkah- langkah:
 
-19. Sistem akan menampilkan tampilan daftar kutipan.
+1. Sistem akan menampilkan tampilan daftar kutipan.
 
-20. Admin dapat melihat,menambahkan, dan mengupload gambar kutipan.
+2. Admin dapat melihat,menambahkan, dan mengupload gambar kutipan.
 
-21. Sistem akan menyimpan ke database.
+3. Sistem akan menyimpan ke database.
 
 Xref: Bagian 3.2.7, Input data kutipan
 
@@ -432,24 +432,24 @@ Xref: Bagian 3.2.7, Input data kutipan
 Deskripsi Singkat Sistem dapat menampilkan halaman mengelola pesan saran
 dan Admin menginputkan pesan saran.
 
-![](media/image15.png){width="3.4591688538932632in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.8%20Admin%20Input%20Pesan%20Saran.png){width="3.4591688538932632in"
 height="1.97001968503937in"}
 
 Deskripsi Langkah- langkah:
 
-22. Sistem akan menampilkan tampilan daftar pesan saran.
+1. Sistem akan menampilkan tampilan daftar pesan saran.
 
-23. Admin dapat melihat,membalas pesan saran..
+2. Admin dapat melihat,membalas pesan saran..
 
-24. Sistem akan menyimpan ke database.
+3. Sistem akan menyimpan ke database.
 
-25. sudah disimpan sistem akan menampilkan peringatan.
+4. sudah disimpan sistem akan menampilkan peringatan.
 
 Xref: Bagian 3.2.8, Input data pesan saran
 
 ### 2.2.9 Pengunjung mengunjungi website {#pengunjung-mengunjungi-website}
 
-![](media/image14.png){width="4.015625546806649in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.9%20Pengunjung%20Mengunjungi%20Website.png){width="4.015625546806649in"
 height="2.227354549431321in"}
 
 Deskripsi Singkat
