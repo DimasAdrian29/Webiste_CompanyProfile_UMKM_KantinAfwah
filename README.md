@@ -200,18 +200,18 @@ style="width:3.10417in;height:1.44444in" /></p>
 <p>Pada halaman pengunjung terdapat sebuah beranda yang berisi tampilan
 scrolling yang berisi konten seperti slider, promo, kutipan dan
 menu</p></th>
-<th><p><img src="media/image27.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/menu.png"
 style="width:3.10417in;height:1.45833in" /></p>
 <p>Pada halaman pengunjung terdapat Menu yang berisi nama makanan,
 harga, gambar dan deskripsi harga serta daftar menu makanan dan minuman
 dipisah</p></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image26.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/promo.png"
 style="width:3.10417in;height:1.48611in" /></p>
 <p>Pada halaman pengunjung juga terdapat halaman promo yang berisikan
 informasi promo promo yang ada</p></th>
-<th><p><img src="media/image19.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/galery.png"
 style="width:3.10417in;height:1.44444in" /></p>
 <p>Pada halaman pengunjung terdapat Galery yang menampilkan foto foto
 seputar UMKM</p></th>
@@ -221,7 +221,7 @@ seputar UMKM</p></th>
 style="width:3.10417in;height:1.45833in" /></p>
 <p>Pada halaman pengunjung terdapat halaman About Us yang berisi
 informasi pengelola dan UMKM</p></th>
-<th><p><img src="media/image8.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/pesansaran.png"
 style="width:3.10417in;height:1.47222in" /></p>
 <p>Pada halaman pengunjung terdapat halaman Pesan Saran yang berisi
 informasi Pesan saran dari pengunjung</p></th>
@@ -233,7 +233,7 @@ informasi Pesan saran dari pengunjung</p></th>
 
 ###  2.1.3 Antarmuka perangkat keras {#antarmuka-perangkat-keras}
 
-![](media/image23.png){width="5.630208880139983in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukahardware.jpeg){width="5.630208880139983in"
 height="4.791090332458443in"}
 
 Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat
@@ -279,7 +279,7 @@ Tidak ada
 
 ## 2.2 Spesifikasi kebutuhan fungsional {#spesifikasi-kebutuhan-fungsional}
 
-![](media/image5.png){width="4.075166229221347in"
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/fungsional.png){width="4.075166229221347in"
 height="7.658162729658793in"}
 
 ### 2.2.1 Admin Login {#admin-login}
