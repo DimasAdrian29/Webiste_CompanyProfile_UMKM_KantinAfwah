@@ -154,27 +154,27 @@ Halaman Admin
 style="width:3.10417in;height:1.47222in" /></p>
 <p>Halaman login, admin diminta untuk memasukkan username dan
 password</p></th>
-<th><p><img src="media/image16.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/dashboardadmin.png"
 style="width:3.10417in;height:1.43056in" /></p>
 <p>Setelah login, admin akan masuk ke Dashboard admin</p></th>
 </tr>
 <tr class="odd">
-<th><p><img src="media/image16.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/dashboardadmin.png"
 style="width:3.10417in;height:1.43056in" /></p>
 <p>Pada halaman ini juga terdapat halaman untuk admin mengelola data
 menu, bukan hanya menu tetapi admin juga dapat mengelola data about us,
 kutipan, slider, promo, galeri, pesan saran pada halaman ini</p></th>
-<th><p><img src="media/image20.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/tambahmenu.png"
 style="width:3.10417in;height:1.44444in" /></p>
 <p>Pada halaman menu, admin dapat menambah daftar menu baru. Begitu juga
 pada pengelolaan data lain nya</p></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image10.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/editmenu.png"
 style="width:3.10417in;height:1.47222in" /></p>
 <p>Pada halaman menu juga terdapat aksi untuk mengedit daftar
 menu</p></th>
-<th><p><img src="media/image9.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/menuadmin.png"
 style="width:3.10417in;height:3.88889in" /></p>
 <p>Pada halaman menu, selain untuk menambahkan dan mengedit, admin juga
 dapat menghapus data menu</p></th>
@@ -193,10 +193,12 @@ Halaman User
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="media/image22.png"
-style="width:3.10417in;height:1.22222in" /></p>
+<th>
 <p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/home.png"
 style="width:3.10417in;height:1.44444in" /></p>
+<p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/homekutipan.png"
+style="width:3.10417in;height:1.22222in" /></p>
+<p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/homepromo.png" /></p>
 <p>Pada halaman pengunjung terdapat sebuah beranda yang berisi tampilan
 scrolling yang berisi konten seperti slider, promo, kutipan dan
 menu</p></th>
