@@ -1,6 +1,6 @@
 **SOFTWARE REQUIREMENTS SPECIFICATION**
 
-
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/logoPCR.png){width="6.5in" height="2.125in"}
 
 **Disusun Oleh:**
 
@@ -133,7 +133,7 @@ dan pengunjung hanya dapat melihat informasi tersebut pada websit
 
 ###  **2.1.1 Antarmuka Sistem** {#antarmuka-sistem}
 
-![](media/image21.png){width="5.28125in" height="6.364583333333333in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukasistem.png){width="5.28125in" height="6.364583333333333in"}
 
 Sistem Kantin Afwah memiliki 2 pengguna yaitu admin dan pengunjung.
 Admin berfungsi mengelola data informasi dan Pengunjung bisa melihat
@@ -150,7 +150,7 @@ Halaman Admin
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="media/image25.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/loginn.png"
 style="width:3.10417in;height:1.47222in" /></p>
 <p>Halaman login, admin diminta untuk memasukkan username dan
 password</p></th>
