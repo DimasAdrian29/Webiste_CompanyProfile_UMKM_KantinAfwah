@@ -133,7 +133,7 @@ dan pengunjung hanya dapat melihat informasi tersebut pada websit
 
 ###  **2.1.1 Antarmuka Sistem** {#antarmuka-sistem}
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukasistem.png){width="5.28125in" height="6.364583333333333in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukasistem.png)
 
 Sistem Kantin Afwah memiliki 2 pengguna yaitu admin dan pengunjung.
 Admin berfungsi mengelola data informasi dan Pengunjung bisa melihat
@@ -235,8 +235,7 @@ informasi Pesan saran dari pengunjung</p></th>
 
 ###  2.1.3 Antarmuka perangkat keras {#antarmuka-perangkat-keras}
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukahardware.jpeg){width="5.630208880139983in"
-height="4.791090332458443in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukahardware.jpeg)
 
 Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat
 Lunak Sistem kantin Afwah yaitu :
@@ -281,8 +280,7 @@ Tidak ada
 
 ## 2.2 Spesifikasi kebutuhan fungsional {#spesifikasi-kebutuhan-fungsional}
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/fungsional.png){width="4.075166229221347in"
-height="7.658162729658793in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/fungsional.png)
 
 ### 2.2.1 Admin Login {#admin-login}
 
@@ -290,9 +288,7 @@ Use Case: Login
 
 Diagram:
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.1%20Admin%20Login.png){width="5.541666666666667in"
-height="1.7604166666666667in"}
-
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.1%20Admin%20Login.png)
 Deskripsi Singkat
 
 Admin melakukan login terlebih dahulu sebelum masuk ke tampilan home
@@ -317,8 +313,7 @@ Xref: Bagian 3.2.1, Login Admin
 Deskripsi Singkat  
 Sistem dapat menampilkan halaman input menu dan Admin menginputkan menu.
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.2%20Admin%20Input%20Menu.png){width="4.5517475940507435in"
-height="2.713542213473316in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.2%20Admin%20Input%20Menu.png)
 
 Deskripsi Langkah- langkah:
 
@@ -336,8 +331,7 @@ Deskripsi Singkat
 Sistem dapat menampilkan halaman input slide dan Admin menginputkan
 slide.
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.3%20Admin%20Input%20Slide.png){width="4.859375546806649in"
-height="1.2990409011373578in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.3%20Admin%20Input%20Slide.png)
 
 Deskripsi Langkah- langkah:
 
@@ -357,8 +351,7 @@ Deskripsi Singkat
 Sistem dapat menampilkan halaman input about dan Admin menginputkan
 about.
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.4%20Admin%20Input%20About%20Us.png){width="4.895833333333333in"
-height="3.1399770341207347in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.4%20Admin%20Input%20About%20Us.png)
 
 Deskripsi Langkah- langkah:
 
@@ -376,8 +369,7 @@ Deskripsi Singkat
 Sistem dapat menampilkan halaman input galery dan Admin menginputkan
 galery..
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.5%20Admin%20Input%20Galery.png){width="4.619792213473316in"
-height="2.454961723534558in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.5%20Admin%20Input%20Galery.png)
 
 Deskripsi Langkah- langkah:
 
@@ -396,8 +388,7 @@ Xref: Bagian 3.2.5, Input data galery
 Deskripsi Singkat Sistem dapat menampilkan halaman input promo dan Admin
 menginputkan promo.
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.6%20Admin%20Input%20Promo.png){width="4.182292213473316in"
-height="3.5367639982502186in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.6%20Admin%20Input%20Promo.png)
 
 Deskripsi Langkah- langkah:
 
@@ -416,8 +407,7 @@ Xref: Bagian 3.2.6, Input data promo
 Deskripsi Singkat Sistem dapat menampilkan halaman input kutipan dan
 Admin menginputkan kutipan.
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.7%20Admin%20Input%20Kutipan.png){width="4.171875546806649in"
-height="2.0270122484689415in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.7%20Admin%20Input%20Kutipan.png)
 
 Deskripsi Langkah- langkah:
 
@@ -434,8 +424,7 @@ Xref: Bagian 3.2.7, Input data kutipan
 Deskripsi Singkat Sistem dapat menampilkan halaman mengelola pesan saran
 dan Admin menginputkan pesan saran.
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.8%20Admin%20Input%20Pesan%20Saran.png){width="3.4591688538932632in"
-height="1.97001968503937in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.8%20Admin%20Input%20Pesan%20Saran.png)
 
 Deskripsi Langkah- langkah:
 
@@ -451,8 +440,7 @@ Xref: Bagian 3.2.8, Input data pesan saran
 
 ### 2.2.9 Pengunjung mengunjungi website {#pengunjung-mengunjungi-website}
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.9%20Pengunjung%20Mengunjungi%20Website.png){width="4.015625546806649in"
-height="2.227354549431321in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.9%20Pengunjung%20Mengunjungi%20Website.png)
 
 Deskripsi Singkat
 
@@ -1141,8 +1129,7 @@ pada website</th>
 
 ## 3.3 Struktur Detail Kebutuhan Non - Fungsional {#struktur-detail-kebutuhan-non---fungsional}
 
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/erd.png){width="6.5in" height="2.125in"}
-
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/erd.png)
 3.3.1 Logika Struktur Data
 
 Struktur data logika pada sistem Kantin Afwah terdapat struktur Database
