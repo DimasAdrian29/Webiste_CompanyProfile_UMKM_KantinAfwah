@@ -1,21 +1,3 @@
-**SOFTWARE REQUIREMENTS SPECIFICATION**
-
-![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/logoPCR.png)
-
-**Disusun Oleh:**
-
-Dimas Adrian (2355301053)
-
-Nur Muhammad Maulanal Hakim (2355301166)
-
-Syafrisar Putri Cadasteria (2355301193)
-
-**PROGRAM STUDI TEKNIK INFORMATIKA**
-
-**POLITEKNIK CALTEX RIAU**
-
-**TA 2024/2025**
-
 ![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/Cover.png)
 
 # BAB I Pendahuluan 
