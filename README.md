@@ -2,13 +2,13 @@
 
 ![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/logoPCR.png)
 
-  **Disusun Oleh:**
+            **Disusun Oleh:**
 
-  Dimas Adrian (2355301053)
+          Dimas Adrian (2355301053)
 
-  Nur Muhammad Maulanal Hakim (2355301166)
+       Nur Muhammad Maulanal Hakim (2355301166)
 
-  Syafrisar Putri Cadasteria (2355301193)
+      Syafrisar Putri Cadasteria (2355301193)
 
   **PROGRAM STUDI TEKNIK INFORMATIKA**
 
@@ -71,6 +71,7 @@ pesan beserta sarannya.Berikut adalah penjelasan dari fitur - fitur yang
 kami sediakan,
 
 Customer fungsi utama yaitu:
+
 1.View Menu
 
 2.Input Pesan Saran
@@ -86,6 +87,7 @@ Customer fungsi utama yaitu:
 7.View Slider
 
 Berikut Fungsi admin:
+
 1.Login
 
 2.Input Pesan Saran
