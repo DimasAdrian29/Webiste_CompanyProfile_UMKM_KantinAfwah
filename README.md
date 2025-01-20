@@ -16,9 +16,9 @@ Syafrisar Putri Cadasteria (2355301193)
 
 **TA 2024/2025**
 
-# BAB I Pendahuluan  {#bab-i-pendahuluan}
+# BAB I Pendahuluan 
 
-## 1.1 Tujuan {#tujuan}
+## 1.1 Tujuan
 
 Dokumen Software Requirement Specification (SRS) merupakan dokumen
 spesifikasi perangkat lunak untuk membangun "Website Profile Company
@@ -30,14 +30,14 @@ UMKM kantin Afwah".
 
 ## 
 
-## 1.2 Lingkup {#lingkup}
+## 1.2 Lingkup 
 
 Website Profile Company UMKM kantin Afwah Merupakan website Untuk
 mempermudah pemilik usaha kantin afwah untuk mempromosikan usahanya
 serta memberi informasi ke public tentang usahanya melalui Website
 Profile Company UMKM kantin Afwah.
 
-## 1.3 Akronim, singkatan, definisi {#akronim-singkatan-definisi}
+## 1.3 Akronim, singkatan, definisi
 
 | Istilah                            | Definisi                                                                                     |
 |------------------------------------|----------------------------------------------------------------------------------------------|
@@ -46,13 +46,13 @@ Profile Company UMKM kantin Afwah.
 | Software Requirement Specification | perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasi pembuat dengan pengguna |
 | Use Case                           | situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda |
 
-## 1.4 Referensi {#referensi}
+## 1.4 Referensi 
 
 Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:
 
 [[https://www.mcdonalds.co.id/]{.underline}](https://www.mcdonalds.co.id/)
 
-## 1.5 Overview {#overview}
+## 1.5 Overview
 
 Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada website.
 Menjelaskan gambaran umum dari aplikasi, sistem interface aplikasi dan
@@ -71,67 +71,42 @@ pesan beserta sarannya.Berikut adalah penjelasan dari fitur - fitur yang
 kami sediakan,
 
 Customer fungsi utama yaitu:
-
-- View Menu
-
-- Input Pesan Saran
-
-- View Promo
-
-- View Gallery
-
-- View About Us
-
-- View Kutipan
-
-- View Slider
+1.View Menu
+2.Input Pesan Saran
+3.View Promo
+4.View Gallery
+5.View About Us
+6.View Kutipan
+7.View Slider
 
 Berikut Fungsi admin:
+1.Login
+2.Input Pesan Saran
+3.Input Promo
+4.Input Gallery
+5.Input About Us
+6.Input Kutipan
+7.Input Slider
+8.Edit Pesan Saran
+9.EditPromo
+10.EditGallery
+11.Edit About Us
+12.Edit Kutipan
+13.Edit Slider
+14.Delete Pesan Saran
+15.Delete Promo
+16.Delete Gallery
+17.Delete Kutipan
+18.Delete Slider
 
-- Login
-
-- Input Pesan Saran
-
-- Input Promo
-
-- Input Gallery
-
-- Input About Us
-
-- Input Kutipan
-
-- Input Slider
-
-- Edit Pesan Saran
-
-- EditPromo
-
-- EditGallery
-
-- Edit About Us
-
-- Edit Kutipan
-
-- Edit Slider
-
-- Delete Pesan Saran
-
-- Delete Promo
-
-- Delete Gallery
-
-- Delete Kutipan
-
-- Delete Slider
-
-## 2.1 Perspektif produk {#perspektif-produk}
+## 2.1 Perspektif produk 
 
 Sistem Kantin Afwah adalah sebuah sistem yang menyediakan informasi
 Kantin Afwah yang diaplikasikan pada website. Terdapat 2 aktor yaitu
 admin dan pengunjung. Data informasi pada website dikelola oleh admin
 dan pengunjung hanya dapat melihat informasi tersebut pada websit
 
-###  **2.1.1 Antarmuka Sistem** {#antarmuka-sistem}
+###  2.1.1 Antarmuka Sistem
 
 ![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukasistem.png)
 
@@ -139,7 +114,7 @@ Sistem Kantin Afwah memiliki 2 pengguna yaitu admin dan pengunjung.
 Admin berfungsi mengelola data informasi dan Pengunjung bisa melihat
 informasi serta memberi pesan dan saran.
 
-###  2.1.2 Antarmuka Pengguna {#antarmuka-pengguna}
+###  2.1.2 Antarmuka Pengguna 
 
 Halaman Admin
 
@@ -233,7 +208,7 @@ informasi Pesan saran dari pengunjung</p></th>
 </tbody>
 </table>
 
-###  2.1.3 Antarmuka perangkat keras {#antarmuka-perangkat-keras}
+###  2.1.3 Antarmuka perangkat keras 
 
 ![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/antarmukahardware.jpeg)
 
@@ -242,11 +217,11 @@ Lunak Sistem kantin Afwah yaitu :
 
 PC / laptop Untuk Menjalankan Aplikasi
 
-###  2.1.4 Antarmuka Perangkat lunak {#antarmuka-perangkat-lunak}
+###  2.1.4 Antarmuka Perangkat lunak 
 
 Tidak ada
 
-###  2.1.5 Antarmuka Komunikasi {#antarmuka-komunikasi}
+###  2.1.5 Antarmuka Komunikasi
 
 Antarmuka komunikasi yang digunakan untuk mengoperasikan Perangkat Lunak
 Sistem kantin Afwah yaitu :
@@ -255,11 +230,11 @@ Sistem kantin Afwah yaitu :
 
 - Jaringan/Wifi
 
-###  2.1.6 Batasan Memory {#batasan-memory}
+###  2.1.6 Batasan Memory
 
 Tidak ada
 
-###  2.1.7 Operasi-operasi {#operasi-operasi}
+###  2.1.7 Operasi-operasi 
 
 | Operasi    | Fungsi                             |
 |------------|------------------------------------|
@@ -272,17 +247,17 @@ Tidak ada
 
 ### 
 
-###  2.1.8 Kebutuhan Adaptasi {#kebutuhan-adaptasi}
+###  2.1.8 Kebutuhan Adaptasi
 
 Tidak ada
 
 ## 
 
-## 2.2 Spesifikasi kebutuhan fungsional {#spesifikasi-kebutuhan-fungsional}
+## 2.2 Spesifikasi kebutuhan fungsional
 
 ![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/fungsional.png)
 
-### 2.2.1 Admin Login {#admin-login}
+### 2.2.1 Admin Login
 
 Use Case: Login
 
@@ -308,7 +283,7 @@ Xref: Bagian 3.2.1, Login Admin
 
 ### 
 
-### 2.2.2 Admin input Menu {#admin-input-menu}
+### 2.2.2 Admin input Menu
 
 Deskripsi Singkat  
 Sistem dapat menampilkan halaman input menu dan Admin menginputkan menu.
@@ -325,7 +300,7 @@ Deskripsi Langkah- langkah:
 
 Xref: Bagian 3.2.2, Input data Menu
 
-### 2.2.3 Admin input Slide {#admin-input-slide}
+### 2.2.3 Admin input Slide 
 
 Deskripsi Singkat  
 Sistem dapat menampilkan halaman input slide dan Admin menginputkan
@@ -345,7 +320,7 @@ Deskripsi Langkah- langkah:
 
 Xref: Bagian 3.2.3, Input data slide
 
-### 2.2.4 Admin input about us {#admin-input-about-us}
+### 2.2.4 Admin input about us
 
 Deskripsi Singkat  
 Sistem dapat menampilkan halaman input about dan Admin menginputkan
@@ -363,7 +338,7 @@ Deskripsi Langkah- langkah:
 
 Xref: Bagian 3.2.4, Input data about
 
-### 2.2.5 Admin input galery {#admin-input-galery}
+### 2.2.5 Admin input galery 
 
 Deskripsi Singkat  
 Sistem dapat menampilkan halaman input galery dan Admin menginputkan
@@ -383,7 +358,7 @@ Deskripsi Langkah- langkah:
 
 Xref: Bagian 3.2.5, Input data galery
 
-### 2.2.6 Admin input Promo {#admin-input-promo}
+### 2.2.6 Admin input Promo
 
 Deskripsi Singkat Sistem dapat menampilkan halaman input promo dan Admin
 menginputkan promo.
@@ -402,7 +377,7 @@ Deskripsi Langkah- langkah:
 
 Xref: Bagian 3.2.6, Input data promo
 
-### 2.2.7 Admin input Kutipan {#admin-input-kutipan}
+### 2.2.7 Admin input Kutipan
 
 Deskripsi Singkat Sistem dapat menampilkan halaman input kutipan dan
 Admin menginputkan kutipan.
@@ -419,7 +394,7 @@ Deskripsi Langkah- langkah:
 
 Xref: Bagian 3.2.7, Input data kutipan
 
-### 2.2.8 Admin Mengelola Pesan Saran {#admin-mengelola-pesan-saran}
+### 2.2.8 Admin Mengelola Pesan Saran
 
 Deskripsi Singkat Sistem dapat menampilkan halaman mengelola pesan saran
 dan Admin menginputkan pesan saran.
@@ -438,7 +413,7 @@ Deskripsi Langkah- langkah:
 
 Xref: Bagian 3.2.8, Input data pesan saran
 
-### 2.2.9 Pengunjung mengunjungi website {#pengunjung-mengunjungi-website}
+### 2.2.9 Pengunjung mengunjungi website
 
 ![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.9%20Pengunjung%20Mengunjungi%20Website.png)
 
@@ -458,7 +433,7 @@ Deskripsi Langkah-Langkah
 
 ## 
 
-## 2.3 Spesifikasi Kebutuhan non Fungsional {#spesifikasi-kebutuhan-non-fungsional}
+## 2.3 Spesifikasi Kebutuhan non Fungsional
 
 - Table Kebutuhan non fungsional
 
@@ -467,20 +442,20 @@ Deskripsi Langkah-Langkah
 | 1   | Semua interface dan fungsi menggunakan Bahasa Indonesia                  |
 | 2   | Perangkat Lunak dapat dipakai di semua platform OS ( Admin, pengunjung ) |
 
-## 2.4 Karakteristik Pengguna {#karakteristik-pengguna}
+## 2.4 Karakteristik Pengguna 
 
 Karakteristik pengguna dari perangkat lunak ini adalah pengguna langsung
 berinteraksi dengan website, dan login untuk admin.
 
-## 2.5 Batasan-batasan {#batasan-batasan}
+## 2.5 Batasan-batasan
 
 Tidak ada
 
-## 2.6 Asumsi-asumsi {#asumsi-asumsi}
+## 2.6 Asumsi-asumsi 
 
 Tidak ada
 
-## 2.7 Kebutuhan Penyeimbang {#kebutuhan-penyeimbang}
+## 2.7 Kebutuhan Penyeimbang
 
 Tidak ada
 
@@ -488,7 +463,7 @@ Tidak ada
 
 # BAB III Requirement Specification
 
-## 3.1 Persyaratan Antarmuka Eksternal {#persyaratan-antarmuka-eksternal}
+## 3.1 Persyaratan Antarmuka Eksternal 
 
 Untuk admin yang akan mengakses website ini diperlukan registrasi
 terlebih dahulu, kemudian akan login dengan memasukkan username dan
@@ -497,9 +472,9 @@ dapat melihat tampilan admin yang ada di website tersebut. Untuk
 pengunjung hanya perlu membuka halaman website, kemudian pengunjung
 dapat melihat konten yang ada di website tersebut.
 
-## 3.2 Functional Requirement {#functional-requirement}
+## 3.2 Functional Requirement
 
-## 3.2.1 Admin Login {#admin-login-1}
+## 3.2.1 Admin Login 
 
 <table>
 <colgroup>
@@ -572,7 +547,7 @@ dapat melihat konten yang ada di website tersebut.
 </tbody>
 </table>
 
-## 3.2.2 Admin Input Menu {#admin-input-menu-1}
+## 3.2.2 Admin Input Menu
 
 <table>
 <colgroup>
@@ -640,7 +615,7 @@ makanan, harga, deskripsi dan gambar makanan</th>
 
 ## 
 
-## 3.2.3 Admin Input Slide {#admin-input-slide-1}
+## 3.2.3 Admin Input Slide 
 
 <table>
 <colgroup>
@@ -779,7 +754,7 @@ kantin, foto pemilik, deskripsi pemilik, email, alamat dan kontak</th>
 </tbody>
 </table>
 
-## 3.2.5 Admin Input Galery {#admin-input-galery-1}
+## 3.2.5 Admin Input Galery 
 
 <table>
 <colgroup>
@@ -853,7 +828,7 @@ deskripsi dan gambar</th>
 </tbody>
 </table>
 
-## 3.2.6 Admin input Promo {#admin-input-promo-1}
+## 3.2.6 Admin input Promo
 
 <table>
 <colgroup>
@@ -927,7 +902,7 @@ akhir, deskripsi, syarat ketentuan, dan gambar</th>
 </tbody>
 </table>
 
-## 3.2.7 Admin Input Kutipan {#admin-input-kutipan-1}
+## 3.2.7 Admin Input Kutipan 
 
 <table>
 <colgroup>
@@ -993,7 +968,7 @@ gambar</th>
 </tbody>
 </table>
 
-## 3.2.8 Admin Mengelola Pesan Saran {#admin-mengelola-pesan-saran-1}
+## 3.2.8 Admin Mengelola Pesan Saran 
 
 <table>
 <colgroup>
@@ -1067,7 +1042,7 @@ pengunjung</p>
 </tbody>
 </table>
 
-## 3.2.9 Pengunjung Mengunjungi Website {#pengunjung-mengunjungi-website-1}
+## 3.2.9 Pengunjung Mengunjungi Website
 
 <table>
 <colgroup>
@@ -1127,7 +1102,7 @@ pada website</th>
 </tbody>
 </table>
 
-## 3.3 Struktur Detail Kebutuhan Non - Fungsional {#struktur-detail-kebutuhan-non---fungsional}
+## 3.3 Struktur Detail Kebutuhan Non - Fungsional 
 
 ![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/erd.png)
 3.3.1 Logika Struktur Data
