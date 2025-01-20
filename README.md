@@ -72,31 +72,54 @@ kami sediakan,
 
 Customer fungsi utama yaitu:
 1.View Menu
+
 2.Input Pesan Saran
+
 3.View Promo
+
 4.View Gallery
+
 5.View About Us
+
 6.View Kutipan
+
 7.View Slider
 
 Berikut Fungsi admin:
 1.Login
+
 2.Input Pesan Saran
+
 3.Input Promo
+
 4.Input Gallery
+
 5.Input About Us
+
 6.Input Kutipan
+
 7.Input Slider
+
 8.Edit Pesan Saran
+
 9.EditPromo
+
 10.EditGallery
+
 11.Edit About Us
+
 12.Edit Kutipan
+
 13.Edit Slider
+
 14.Delete Pesan Saran
+
 15.Delete Promo
+
 16.Delete Gallery
+
 17.Delete Kutipan
+
 18.Delete Slider
 
 ## 2.1 Perspektif produk 
