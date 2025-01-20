@@ -16,7 +16,7 @@ Syafrisar Putri Cadasteria (2355301193)
 
 **TA 2024/2025**
 
-https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/Cover.png
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/Cover.png)
 
 # BAB I Pendahuluan 
 
